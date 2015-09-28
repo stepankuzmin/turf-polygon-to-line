@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var f = require('./'),
+    fs = require('fs');
+
+var fileName = process.argv.slice(2)[0];
+var contents = JSON.parse(fs.readFileSync(fileName));
+var result = f(contents);
+
+process.stdout.write(JSON.stringify(result, null, 2));
