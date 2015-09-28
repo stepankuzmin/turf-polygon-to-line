@@ -32,7 +32,7 @@ function toLineString(feature) {
 /**
  * Transforms Polygons and MultiPolygons to LineStrings.
  *
- * @module turf/turf-polygon-to-line
+ * @module turf/polygonToLine
  * @category transformation
  * @param {Object} geojson any GeoJSON object
  * @returns {Object} FeatureCollection where

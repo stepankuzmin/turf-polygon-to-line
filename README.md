@@ -5,7 +5,7 @@
 
 
 
-### `turf.turf-polygon-to-line(geojson)`
+### `turf.polygonToLine(geojson)`
 
 Transforms Polygons and MultiPolygons to LineStrings.
 
@@ -17,7 +17,7 @@ Transforms Polygons and MultiPolygons to LineStrings.
 
 
 
-**Returns** `Object`, FeatureCollection where Polygons and MultiPolygons transformed to LineStrings
+**Returns** `Object`, FeatureCollection where Polygons and MultiPolygons transformed to LineStrings.
 
 ## Installation
 
