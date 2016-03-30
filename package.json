@@ -31,7 +31,7 @@
     "turf-normalize": "1.0.2"
   },
   "devDependencies": {
-    "dox": "0.8.0",
+    "dox": "0.8.1",
     "doxme": "1.8.2",
     "tape": "4.5.1"
   }
