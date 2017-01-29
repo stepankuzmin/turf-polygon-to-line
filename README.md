@@ -1,5 +1,7 @@
 # turf-polygon-to-line
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/turf-polygon-to-line.svg)](https://greenkeeper.io/)
+
 [![build status](https://secure.travis-ci.org/stepankuzmin/turf-polygon-to-line.png)](http://travis-ci.org/stepankuzmin/turf-polygon-to-line)
 
 
